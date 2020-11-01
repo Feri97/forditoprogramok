@@ -1,0 +1,7 @@
+C:\Users\Feri\source\repos\filemanager\filemanager\bin\Debug\filemanager.exe.config
+C:\Users\Feri\source\repos\filemanager\filemanager\bin\Debug\filemanager.exe
+C:\Users\Feri\source\repos\filemanager\filemanager\bin\Debug\filemanager.pdb
+C:\Users\Feri\source\repos\filemanager\filemanager\obj\Debug\filemanager.csprojAssemblyReference.cache
+C:\Users\Feri\source\repos\filemanager\filemanager\obj\Debug\filemanager.csproj.CoreCompileInputs.cache
+C:\Users\Feri\source\repos\filemanager\filemanager\obj\Debug\filemanager.exe
+C:\Users\Feri\source\repos\filemanager\filemanager\obj\Debug\filemanager.pdb
